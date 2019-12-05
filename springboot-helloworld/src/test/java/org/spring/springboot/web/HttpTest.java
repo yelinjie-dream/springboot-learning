@@ -8,6 +8,7 @@ package org.spring.springboot.web;
 public class HttpTest {
     public static void main(String[] args) {
         System.out.println("aaaa = " );
+        
         System.out.println(" = ");
     }
 }
